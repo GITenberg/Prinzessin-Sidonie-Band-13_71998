@@ -1,11 +1,16 @@
 _repo: Prinzessin-Sidonie-Band-13_71998
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71998-h/images/cover.jpg
 creator:
   author:
     agent_name: Bacher, Julius
     gutenberg_agent_id: '56490'
     url: http://www.gutenberg.org/2009/agents/56490
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71998#Prinzessin-Sidonie-Band-13
 gutenberg_issued: '2023-11-01'
 identifiers:
   gutenberg: '71998'
